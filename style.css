@@ -14,8 +14,8 @@ header{
 	float: left;
 	width: 100px;
 	height: 625px;
-    top: 0; 
-	background-color: rgba(255,85,0,0.9);
+    	top: 0; 
+	background-color: rgba(75,20,183,0.9);
 	left: -100%;
 	transition: all 0.5s;
 }
