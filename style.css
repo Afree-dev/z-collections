@@ -123,13 +123,13 @@ section{
 	margin-top: 20px;
 	height: 30px;
 	width: 250px;
-	background-color: gray;
+	background-color:rgba(0,0,0,0.8);
 	border-radius: 25px;
 }
 #sear{
 	color: white;
 	padding: 5px 10px;
-	background-color: gray;
+	background-color: black;
 }
 #foot{
 	margin-top: 25px;
