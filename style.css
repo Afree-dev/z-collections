@@ -3,6 +3,7 @@
 	padding: 0px;
 }
 body{
+	background-repeat: no-repeat;
 	background-image: url(bg.jpg);
 	background-attachment: fixed;
 	background-size: cover;
