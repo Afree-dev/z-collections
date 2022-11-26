@@ -16,8 +16,9 @@ body{
 	margin-top: 50px;
 	width: 1200px;
 	height: 500px;
+	padding: 20px;
 }
-#content{
+.content{
 	position: relative;
 	margin: 0 auto;
 	margin-left: 100px; 
@@ -26,9 +27,8 @@ body{
 	padding: 0px 15px;
 	width: 650px;
 	background-color: rgba(0,0,0,0.7);
-	margin-left: 80px;
 	position: absolute;
-	top: 128px;
+	top: 132px;
 	text-align: justify;
 	color: white;
 	height: 350px;
@@ -74,4 +74,49 @@ body{
 	color: red;	
 	border-color: red;
 	box-shadow: 2px 4px 5px yellow;
+}
+#main2{
+	width: 1200px;
+	height: auto;
+	margin: 0 auto;
+}
+.abt-item{
+	padding-left: 10px;
+	font-size: 25px;
+	color: white;
+}
+#foot{
+	margin-top: 50px;
+}
+#about{
+	margin-top: 30px;
+}
+#about ul{
+	margin: 0 auto;
+	display: flex;
+	width: 500px;
+	flex-wrap: wrap;
+}
+#about li{
+	margin: 0 auto;
+	display: inline;
+}
+#about li a{
+	margin: 0 auto;
+	padding: 10px;
+	transition: 0.5s;
+	color: white;
+	font-size: 35px;
+	text-align: center;
+	display: block;
+	width: 50px;
+	transition: 0.5s;
+}
+#con h3{
+	color: white;
+	font-size: 50px;
+	text-align: center;
+}
+#about li a:hover{
+	transform: scale(1.2);
 }
