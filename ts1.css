@@ -93,13 +93,12 @@ body{
 }
 #foot{
 	margin: 0 auto;
-	margin-top: 800px;
+	margin-top: 400px;
 }
 #about{
 	margin-top: 30px;
 }
 #con{
-	margin-left: 200px;
 	text-align: center;
 }
 #about ul{
