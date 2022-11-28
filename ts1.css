@@ -98,6 +98,9 @@ body{
 #about{
 	margin-top: 30px;
 }
+#con{
+	margin: 0 auto;
+}
 #about ul{
 	margin: 0 auto;
 	display: flex;
